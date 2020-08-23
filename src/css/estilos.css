@@ -1,0 +1,517 @@
+.html,body{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 100%;
+    height: 100%;
+}
+
+.container{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 1500px;
+    height: 2444px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.header{
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 1500px;
+    height: 399px;
+    background: #707070 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.p_first{
+    margin-top: 69px;
+    margin-left: 635px;
+    width: 227px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 20px/24px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.p_second{
+    margin-top: 0px;
+    margin-left: 571px;
+    width: 358px;
+    height: 48px;
+    text-align: center;
+    font: normal normal bold 40px/49px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    padding-top: 0px;
+}
+
+.p_third{
+    margin-top: 24px;
+    margin-left: 476px;
+    width: 548px;
+    height: 16px;
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.tag_first{
+    margin-left: 371px;
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.tag_second{
+    margin-left: 571px;
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.tag_third{
+    margin-left: 771px;
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.tag_fourth{
+    margin-left: 971px;
+    position: absolute;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+
+.tag_text_first{
+    margin-top: 12px;
+    margin-left: 31px;
+    width: 98px;
+    height: 16px;
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.tag_text_second{
+    margin-top: 12px;
+    margin-left:23px;
+    width: 114px;
+    height: 16px;
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.tag_text_third{
+    margin-top: 12px;
+    margin-left: 34px;
+    width: 92px;
+    height: 16px;
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.tag_text_fourth{
+    margin-top: 12px;
+    margin-left: 42px;
+    width: 76px;
+    height: 16px;
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.title_main{
+    position: absolute;
+    margin-top: 20.67px;
+    margin-left: 290px;
+    width: 332px;
+    height: 23px;
+    text-align: left;
+    font: normal normal normal 20px/24px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.text_main{
+    position:absolute;
+    margin-top: 73.97px;
+    margin-left: 290px;
+    width: 520px;
+    height: 220px;
+    text-align: left;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.label_nome{
+    position:absolute;
+    margin-top: 20.97px;
+    margin-left: 870px;
+    width: 58px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.label_email{
+    position:absolute;
+    margin-top: 91.97px;
+    margin-left: 870px;
+    width: 34px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.label_cpf{
+    position:absolute;
+    margin-top: 162.97px;
+    margin-left: 870px;
+    width: 27px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+
+.first_input{
+    position:absolute;
+    margin-top: 41.97px;
+    margin-left: 870px;
+    width: 340px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.second_input{
+    position:absolute;
+    margin-top: 112.97px;
+    margin-left: 870px;
+    width: 340px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.third_input{
+    position:absolute;
+    margin-top: 183.97px;
+    margin-left: 870px;
+    width: 340px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.radio_masc{
+    position:absolute;
+    margin-top: 233.97px;
+    margin-left: 870px;
+    width: 14px;
+    height: 14px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.radio_masc_label{
+    position: absolute;
+    margin-top: 233.97px;
+    margin-left: 889px;
+    width: 55px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+.radio_fem{
+    position:absolute;
+    margin-top: 233.97px;
+    margin-left: 984px;
+    width: 14px;
+    height: 14px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.radio_fem_label{
+    position: absolute;
+    margin-top: 233.97px;
+    margin-left: 1003px;
+    width: 49px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.button_enviar{
+    position:absolute;
+    margin-top: 270.97px;
+    margin-left: 870px;
+    width: 340px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.label_button_enviar{
+    position:absolute;
+    margin-top: 281.97px;
+    margin-left: 1018px;
+    width: 44px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.divider_left{
+    position: absolute;
+    margin-top: 400.97px;
+    margin-left: 290px;
+    width: 350px;
+    height: 0px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.divider_right{
+    position: absolute;
+    margin-top: 400.97px;
+    margin-left: 870px;
+    width: 350px;
+    height: 0px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+
+.divider_text{
+    position: absolute;
+    margin-top: 388.97px;
+    margin-left: 666px;
+    width: 181px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 18px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.container_produtos{
+    position: absolute;
+    margin-top: 460.97px;
+    margin-left: 285px;
+    width: 931px;
+    height: 740px;
+    opacity: 1;
+   
+}
+
+.button_more_prod{
+    position: absolute;
+    margin-top: 1251.97px;
+    margin-left: 620px;
+    width: 260px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.label_more_prod{
+    position: absolute;
+    margin-top: 1262.97px;
+    margin-left: 657px;
+    width: 187px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.font_end{
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.title.font_end{
+    position: absolute;
+    margin-top:1484.97px;
+    margin-left: 483px;
+   
+}
+
+.label_nome.font_end{
+    position: absolute;
+    margin-top: 1539.97px;
+    margin-left: 390px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    width: 112px;
+    height: 14px;
+}
+
+.label_email.font_end{
+    position: absolute;
+    margin-top: 1539.97px;
+    margin-left: 770px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    width: 37px;
+    height: 14px;
+}
+
+.input{
+    position: absolute;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.input.amigo{
+    position: absolute;
+    margin-top: 1560.97px;
+    margin-left: 390px;
+    width: 340px;
+    height: 30px;
+}
+
+.input.amigo_email{
+    position: absolute;
+    margin-top: 1560.97px;
+    margin-left: 770px;
+    width: 340px;
+    height: 30px;
+}
+
+.button_send_now{
+    position: absolute;
+    margin-top: 1640.97px;
+    margin-left: 620px;
+    width: 260px;
+    height: 39px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.font_send_now{
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.label_send_now.font_send_now{
+    position: absolute;
+    margin-top: 1651.97px;
+    margin-left: 706px;
+    width: 89px;
+    height: 18px;
+}
+
+.container_footer{
+    position: absolute;
+    margin-top: 1751.53px;
+    margin-left: 0px;
+    width: 1500px;
+    height: 293px;
+    background: #707070 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.text_footer{
+    margin-top: 157.24px;
+    margin-left: 620px;
+    width: 260px;
+    height: 50px;
+    text-align: center;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}

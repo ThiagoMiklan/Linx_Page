@@ -1,0 +1,822 @@
+
+
+.img_produto{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 0px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto{
+    position: absolute;
+    margin-top: 164px;
+    margin-left: 0px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 0px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 0px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 0px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price{
+    position: absolute;
+    margin-top: 296px;
+    margin-left: 0px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 0px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label{
+    position: absolute;
+    margin-top: 326px;
+    margin-left: 70px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+
+.img_produto_s{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 242px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_s{
+    position: absolute;
+    margin-top: 164px;
+    margin-left: 242px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_s{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 242px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_s{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 242px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_s{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 242px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_s{
+    position: absolute;
+    margin-top: 296px;
+    margin-left: 242px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_s{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 242px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_s{
+    position: absolute;
+    margin-top: 326px;
+    margin-left: 311px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+.img_produto_t{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 483px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_t{
+    position: absolute;
+    margin-top: 164px;
+    margin-left: 483px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_t{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 483px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_t{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 483px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_t{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 483px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_t{
+    position: absolute;
+    margin-top: 296px;
+    margin-left: 483px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_t{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 483px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_t{
+    position: absolute;
+    margin-top: 326px;
+    margin-left: 552px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+.img_produto_f{
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 724px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_f{
+    position: absolute;
+    margin-top: 164px;
+    margin-left: 724px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_f{
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 724px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_f{
+    position: absolute;
+    margin-top: 250px;
+    margin-left: 724px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_f{
+    position: absolute;
+    margin-top: 270px;
+    margin-left: 724px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_f{
+    position: absolute;
+    margin-top: 296px;
+    margin-left: 724px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_f{
+    position: absolute;
+    margin-top: 320px;
+    margin-left: 724px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_f{
+    position: absolute;
+    margin-top: 326px;
+    margin-left: 793px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+
+
+.img_produto_six{
+    position: absolute;
+    margin-top:389px;
+    margin-left: 0px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_six{
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 0px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_six{
+    position: absolute;
+    margin-top: 579px;
+    margin-left: 0px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_six{
+    position: absolute;
+    margin-top: 639px;
+    margin-left: 0px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_six{
+    position: absolute;
+    margin-top: 659px;
+    margin-left: 0px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_six{
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 0px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_six{
+    position: absolute;
+    margin-top: 709px;
+    margin-left: 0px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_six{
+    position: absolute;
+    margin-top: 715px;
+    margin-left: 70px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+.img_produto_sev{
+    position: absolute;
+    margin-top:389px;
+    margin-left: 242px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_sev{
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 242px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_sev{
+    position: absolute;
+    margin-top: 579px;
+    margin-left: 242px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_sev{
+    position: absolute;
+    margin-top: 639px;
+    margin-left: 242px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_sev{
+    position: absolute;
+    margin-top: 659px;
+    margin-left: 242px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_sev{
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 242px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_sev{
+    position: absolute;
+    margin-top: 709px;
+    margin-left: 242px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_sev{
+    position: absolute;
+    margin-top: 715px;
+    margin-left: 311px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+
+.img_produto_eig{
+    position: absolute;
+    margin-top:389px;
+    margin-left: 483px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_eig{
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 483px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_eig{
+    position: absolute;
+    margin-top: 579px;
+    margin-left: 483px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_eig{
+    position: absolute;
+    margin-top: 639px;
+    margin-left: 483px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_eig{
+    position: absolute;
+    margin-top: 659px;
+    margin-left: 483px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_eig{
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 483px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_eig{
+    position: absolute;
+    margin-top: 709px;
+    margin-left: 483px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_eig{
+    position: absolute;
+    margin-top: 715px;
+    margin-left: 552px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
+.img_produto_nin{
+    position: absolute;
+    margin-top:389px;
+    margin-left: 724px;
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.title_produto_nin{
+    position: absolute;
+    margin-top: 553px;
+    margin-left: 724px;
+    width: 111px;
+    height: 16px;
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.desc_produto_nin{
+    position: absolute;
+    margin-top: 579px;
+    margin-left: 724px;
+    width: 200px;
+    height: 60px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.old_price_nin{
+    position: absolute;
+    margin-top: 639px;
+    margin-left: 724px;
+    width: 66px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.new_price_nin{
+    position: absolute;
+    margin-top: 659px;
+    margin-left: 724px;
+    width: 96px;
+    height: 19px;
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.split_price_nin{
+    position: absolute;
+    margin-top: 685px;
+    margin-left: 724px;
+    width: 88px;
+    height: 14px;
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+.buy_produto_nin{
+    position: absolute;
+    margin-top: 709px;
+    margin-left: 724px;
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+}
+
+.buy_label_nin{
+    position: absolute;
+    margin-top: 715px;
+    margin-left: 793px;
+    width: 63px;
+    height: 18px;
+    text-align: left;
+    font: normal normal normal 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+
+
