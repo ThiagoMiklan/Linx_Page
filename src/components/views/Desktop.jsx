@@ -9,6 +9,14 @@ import Label from '../elements/Label';
 import Dividers from '../elements/Dividers';
 import ListProducts from '../elements/ListProducts';
 
+// O componente Desktop agrega todo o HTML da página
+// Para controlar a nextPage eu uso o hook statePage
+// Para controlar o valor dos inputs eu uso o hook stateInputs
+
+// Ao clicar em "Ainda mais produtos aqui!" os hook statePage é atualizado com a url
+// da próxima página e o hook state é atualizado com os 8 produtos obtidos através
+// da url corrente do statePage
+
 const Desktop = (props) => {
 
     const [state, setState] = useState({ products: [] });
@@ -68,14 +76,18 @@ function useModel() {
     const [stateInputs, setStateInputs] = useState({ textAmigo: '', textEmail: '',class_amigo: '',amigo_mes:'',class_email:'',email_mes:''});
 
     function onChangeAmigo(e) {
-        var regex = /^[A-Za-z]+$/;
+        // regex permite somente caracteres alfabéticos
+        // O tamanho do nome é no máximo de 50 caracteres
+        let regex = /^[A-Za-z]+$/;
         let value_copy = e.target.value;
         let value_anaylse = value_copy.replace(/ /g,'');
         
         if(e.target.value.trim() == ''){
             setStateInputs({ ...stateInputs, textAmigo: '',class_amigo:'',amigo_mes:''});   
         }else{
-            if(value_anaylse.match(regex)){
+            if(e.target.value.trim().length > 50){
+                setStateInputs({ ...stateInputs, textAmigo: e.target.value,class_amigo:'help_danger amigo',amigo_mes:"Máximo de caracteres ultrapassado"});    
+            }else if(value_anaylse.match(regex)){
                 setStateInputs({ ...stateInputs, textAmigo: e.target.value,class_amigo:'help_success amigo',amigo_mes:"OK"});    
             }else{
                 setStateInputs({ ...stateInputs, textAmigo: e.target.value,class_amigo:'help_danger amigo',amigo_mes:"Caracter não alfabético informado"});    
@@ -85,7 +97,9 @@ function useModel() {
     }
 
     function onChangeEmail(e) {
-        var regex = /[a-z A-z 0-9]+[@][a-z A-z 0-9]+[.]([c][o][m]|[b][r]|[c][o][m][.][b][r])$/;
+        // regex permite  [letras e números][@][letras e números][.com ou .br ou .com.br]
+        // O tamanho do email é no máximo 50 caracteres
+        let regex = /[a-z A-z 0-9]+[@][a-z A-z 0-9]+[.]([c][o][m]|[b][r]|[c][o][m][.][b][r])$/;
         let value_copy = e.target.value;
         let value_anaylse = value_copy.replace(/ /g,'');
 

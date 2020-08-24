@@ -25,7 +25,7 @@ module.exports = {
   devServer: {
     inline: true,
     contentBase: './public',
-    port: 5000
+    port: 3000
   },
   plugins: [
     new HtmlWebpackPlugin({
